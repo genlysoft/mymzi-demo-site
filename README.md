@@ -4,4 +4,4 @@ Built output only. Source and issues: `mymzi-demo/` in genlysoft/edvocate
 (`scripts/publish_demo.sh`). Every district, employee, matter, and number
 on the site is fictional; nothing is legal advice.
 
-Last published from edvocate `9a82019`.
+Last published from edvocate `1b62335`.
